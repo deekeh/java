@@ -1,0 +1,23 @@
+ARRAYS AND STRINGS
+
+DOP - 20/07/2019
+DOS - 27/07/2019
+
+Theory
+1. Declaration of array
+2. Creation of array
+3. Strings
+4. String methods
+	a. Equals,
+	b. charAt(),
+	c. substring(),
+	d. length(),
+	e. compareTo(),
+	f. indexOf()
+
+1. WAP to check if the array has any duplicate elements.
+2. count number of vowels and consonants in any string.
+3. Check if a string is a palindrome.
+4. Implement a program using switch to calculate
+	a. Matrix multiplication.
+	b. Mean, variance and standard deviation of an array.
