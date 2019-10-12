@@ -39,7 +39,7 @@ class Perform
 	{
 		Producer p = new Producer();
 		Consumer c = new Consumer();
-		for(int i = 0; i<10; i++)
+		for(int i = 0; i<5; i++)
 		{
 			p.run();
 			c.run();
