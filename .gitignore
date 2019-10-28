@@ -1,7 +1,2 @@
-/friends COPO
-/test
-*.docx
-*.doc
-*.pdf
-*.class
-*.zip
+*
+!*.java
